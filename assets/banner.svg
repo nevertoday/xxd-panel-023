@@ -1,0 +1,47 @@
+<svg width="1200" height="400" viewBox="0 0 1200 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>XXD Panel 023</title>
+  <desc>A source-responsive Eastern round window, pale breathing ground, living coloured light, diffuse projections, fine spray grain, and five-language documentation.</desc>
+  <defs>
+    <clipPath id="frame"><rect width="1200" height="400" rx="30"/></clipPath>
+    <clipPath id="moon"><circle cx="936" cy="207" r="116"/></clipPath>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="15"/></filter>
+    <filter id="dust" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency=".55" numOctaves="2" seed="23" result="n"/>
+      <feComposite in="n" in2="SourceGraphic" operator="in" result="t"/>
+      <feBlend in="SourceGraphic" in2="t" mode="soft-light"/>
+    </filter>
+    <linearGradient id="ground" x1="0" y1="0" x2="1200" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7F3E9"/><stop offset="1" stop-color="#DCEBE8"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="400" fill="url(#ground)"/>
+    <circle cx="1070" cy="111" r="106" fill="#ECA9A0" fill-opacity=".34" filter="url(#soft)"/>
+    <circle cx="872" cy="300" r="104" fill="#99C8D0" fill-opacity=".38" filter="url(#soft)"/>
+    <circle cx="936" cy="207" r="126" fill="#F9F6ED" fill-opacity=".76" stroke="#789A96" stroke-opacity=".52" stroke-width="4"/>
+    <g clip-path="url(#moon)" opacity=".78">
+      <path d="M820 160H1052M820 207H1052M820 254H1052M864 91V323M936 91V323M1008 91V323" stroke="#789A96" stroke-width="2"/>
+      <circle cx="936" cy="207" r="67" stroke="#789A96" stroke-width="2"/>
+    </g>
+    <path d="M821 284C858 258 881 222 889 180C897 139 923 112 960 100" stroke="#D66D71" stroke-width="24" stroke-linecap="round" stroke-opacity=".33" filter="url(#soft)"/>
+    <path d="M820 289C858 261 881 226 889 182C897 143 923 115 961 101" stroke="#365451" stroke-width="3" stroke-linecap="round"/>
+    <path d="M874 221C853 205 837 187 827 165M898 165C882 151 873 136 867 116M929 132C920 118 915 103 915 88" stroke="#365451" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="827" cy="164" r="9" fill="#E58B76"/><circle cx="867" cy="116" r="7" fill="#E58B76"/><circle cx="915" cy="88" r="6" fill="#E58B76"/>
+    <text x="1093" y="317" text-anchor="end" fill="#365451" font-family="Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="2">LIGHT / WINDOW / 023</text>
+    <text x="1157" y="40" text-anchor="end" fill="#365451" fill-opacity=".58" font-family="Arial, sans-serif" font-size="10" font-weight="700">中文 · EN · 日本語 · 한국어 · العربية</text>
+  </g>
+  <g transform="translate(62 51)">
+    <text x="0" y="20" fill="#365451" font-family="Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="2.4">🦁 XXD / IMAGE SKILL</text>
+    <text x="0" y="104" fill="#365451" font-family="Arial Black, Arial, sans-serif" font-size="72" font-weight="900" letter-spacing="-4">PANEL <tspan fill="#D66D71">023</tspan></text>
+    <text x="2" y="143" fill="#365451" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing=".75">EASTERN WINDOW · LIVING LIGHT · DIFFUSE MEMORY</text>
+    <text x="2" y="183" fill="#365451" font-family="sans-serif" font-size="17" font-weight="700">东方窗形柔光框景 · 浅色呼吸与虚实投影</text>
+    <text x="2" y="212" fill="#365451" fill-opacity=".72" font-family="sans-serif" font-size="13" font-weight="600">東洋の窓と柔らかな光 · 동양 창과 부드러운 빛</text>
+    <text x="2" y="240" fill="#365451" fill-opacity=".72" font-family="Arial, sans-serif" font-size="13" font-weight="600">نافذة شرقية وضوء حيّ منتشر</text>
+  </g>
+  <g transform="translate(62 329)">
+    <rect width="150" height="35" rx="7" fill="#365451"/><text x="75" y="23" text-anchor="middle" fill="#F7F3E9" font-family="Courier New, monospace" font-size="12" font-weight="900">SOURCE-BOUND</text>
+    <rect x="162" width="100" height="35" rx="7" fill="#E5A096"/><text x="212" y="23" text-anchor="middle" fill="#365451" font-family="Courier New, monospace" font-size="12" font-weight="900">4 MODES</text>
+    <rect x="274" width="170" height="35" rx="7" fill="#D5E8E4" stroke="#365451" stroke-width="1.5"/><text x="359" y="23" text-anchor="middle" fill="#365451" font-family="Courier New, monospace" font-size="12" font-weight="900">WINDOW + LIGHT</text>
+    <rect x="456" width="146" height="35" rx="7" fill="#F7F3E9" stroke="#365451" stroke-width="1.5"/><text x="529" y="23" text-anchor="middle" fill="#365451" font-family="Courier New, monospace" font-size="12" font-weight="900">RASTER ONLY</text>
+  </g>
+</svg>
