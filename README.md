@@ -44,11 +44,22 @@ XXD Panel 023 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **空气质感：** 细腻喷绘颗粒、色粉、粉尘、柔焦与漫射边缘；窗格略清晰但绝不硬质描边。
 - **安静微排版：** 一个极短标题与少量地点词、状态词或微短句，沿窗沿、弧线、轴线或光影留白进入构图。
 
-## 样张 · 即将补充
+## 样张 · 来自 X
 
-项目已预留 [`assets/examples/`](assets/examples/) 样张目录。只有经项目作者确认、确实使用 023 完成的作品才会加入；在此之前不借用其他风格的推文或图片作为占位。
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090381352025854206) · 2026-08-20<br>
+> GPT2 x 中式美学 x 窗景 x 朦胧 x 美学提示词<br>
+> 原推文未标注 VOL；作者在本次对话确认该样张归属 XXD Panel 023。
 
-未来样张只用于展示 023 对不同题材的适应力，不会把样张主体、隐喻、配色、文案或画幅变成生成参考或默认值。
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 023 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 023 样张 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 023 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 四种输出共享同一种东方窗景逻辑
 

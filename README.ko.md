@@ -43,11 +43,22 @@ XXD Panel 023는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 - **공기의 재질:** 분사 입자, 파스텔 가루, 먼지, 부드러운 초점과 확산 가장자리. 격자는 조금 선명해도 딱딱하지 않습니다.
 - **고요한 미세 조판:** 극히 짧은 제목과 소수의 미세 단어를 창 가장자리, 곡선, 축 또는 빛 여백에 둡니다.
 
-## 예시 · 곧 추가됩니다
+## 예시 · X에서
 
-저장소에는 향후 예시를 위한 [`assets/examples/`](assets/examples/) 폴더가 마련되어 있습니다. 프로젝트 작성자가 확인한 023 완성작만 추가하며, 그전에는 다른 스타일의 게시물이나 이미지를 자리표시자로 쓰지 않습니다.
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090381352025854206) · 2026-08-20<br>
+> GPT2 x 中式美学 x 窗景 x 朦胧 x 美学提示词<br>
+> 원문 게시물에는 VOL 표기가 없지만, 작성자가 이번 대화에서 XXD Panel 023 예시임을 확인했습니다.
 
-향후 예시는 023의 적용 범위만 보여 줍니다. 예시의 주제, 은유, 팔레트, 문구, 화면 비율은 생성 참조나 기본값이 되지 않습니다.
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 023 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 023 예시 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 023의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
 
 ## 네 가지 출력, 하나의 동양 창경 논리
 

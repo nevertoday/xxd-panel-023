@@ -43,11 +43,22 @@ XXD Panel 023 は、Codex と互換 Agent のための画像生成 Skill です�
 - **空気の素材：** スプレー粒子、パステル粉、粉塵、柔焦点、拡散境界。格子は少し明瞭でも硬くしません。
 - **静かな小文字：** 極短い題と少数の微小語を、窓縁、弧、軸、光の余白へ置きます。
 
-## 作例 · 近日追加
+## 作例 · X より
 
-リポジトリには将来の作例用に [`assets/examples/`](assets/examples/) を用意しています。プロジェクト作者が確認した 023 の完成作品だけを追加し、それまでは別スタイルの投稿や画像を代用しません。
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090381352025854206) · 2026-08-20<br>
+> GPT2 x 中式美学 x 窗景 x 朦胧 x 美学提示词<br>
+> 元の投稿には VOL 表記がありませんが、作者が本対話で XXD Panel 023 の作例であると確認しました。
 
-将来の作例は 023 の応用範囲を示すだけで、主体、比喩、配色、文言、画角が生成参照や既定値になることはありません。
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 023 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 023 作例 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 023 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 4つの出力を支えるひとつの東洋窓景ロジック
 
