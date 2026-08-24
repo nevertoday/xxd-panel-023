@@ -1,4 +1,4 @@
 interface:
-  display_name: "XXD Panel 023"
+  display_name: "/xxd-panel-023"
   short_description: "Create soft Eastern window-framed atmospheres."
   default_prompt: "Use $xxd-panel-023 to translate my photo into one source-responsive traditional Chinese window frame with a recognisable subject or projection appearing through it, an extremely pale source-derived ground, living coloured light, fine spray grain, pastel dust, diffuse focus, quiet negative space, and native-script microtype; ask first for modes and copy or locale preferences."
