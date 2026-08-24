@@ -39,7 +39,18 @@ The ground is an extremely pale, low-saturation composite extracted from the sou
 
 These samples demonstrate the 023 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Why it exists
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 023 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Frame the photograph in one source-responsive Eastern window and diffused living light |
+| **Recognizable signature** | SOURCE-CHOSEN WINDOW · PALE BREATHING GROUND · LIVING COLOURED LIGHT · SPRAY GRAIN · DIFFUSE PROJECTION |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
 
 An “Eastern window scene” easily collapses into the same centred moon gate, fixed dark-blue ground, hard Chinese border, or cheap nostalgic filter, with the subject merely inserted into an unrelated template.
 
@@ -51,7 +62,7 @@ lock source contour / action / opening / direction / light / colour / relation �
 
 If an unrelated photograph could replace the source without materially changing window choice, subject-window relation, principal light, quiet void, projections, ground hue, living light colour, or type path, the result is not 023.
 
-## The 023 visual contract
+## What makes the finished style recognizable
 
 - **Source chooses the window:** at least three source-specific cues determine one window form; never default to one moon gate or stack several traditions.
 - **Window and subject interact:** subject, branch shadow, light patch, or projection appears within, passes through, occludes, or spills so the frame creates order and depth.
