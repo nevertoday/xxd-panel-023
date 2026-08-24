@@ -1,5 +1,13 @@
 # XXD Panel 023 | Eastern Window, Diffused Light, and Framed Atmosphere
 
+## Runtime complete-canvas contract — highest priority
+
+- `TOP_BOTTOM` and `LEFT_RIGHT` default to one complete finished generation using the current source as a high-fidelity edit/reference input. Do not pre-split the job into photographic and design halves.
+- Top-bottom keeps the faithful source in approximately the upper 50% and performs this style transformation below; left-right uses the faithful source in approximately the left 50% and the transformation on the right. Unify both regions through colour, light, rhythm, typography, and meaning.
+- `DESIGN_ONLY` and `WALLPAPER_PACK` use the complete canvas while the source remains an invisible identity/content reference. Recompose every wallpaper separately for its device.
+- `FINAL CANVAS` means the ratio/pixels of the whole finished artwork and must be explicitly resolved before generation; never apply source dimensions silently. `DESIGN FRAME` is used only if a failed complete-canvas retry triggers deterministic composition fallback.
+- Retry a failed complete canvas once against the failed constraint only. Scripted composition is allowed only after that retry still fails, when pixel-identical source preservation is explicitly required, when the active route cannot realise the canvas, or for lossless pixel calibration.
+
 Process only the one source photograph explicitly supplied for the current task. Lock one principal subject or inseparable relation, its main action, and at least three source-specific cues. Never borrow a subject, window form, light colour, copy, or composition from samples, old outputs, or another input.
 
 ## Let the source choose the window
@@ -28,7 +36,6 @@ Place type along a window edge, arc, axis, or quiet light area through alignment
 
 ## Mode and hard gate
 
-Obey the appended `OUTPUT MODE`, `FINAL SIZE`, and `DESIGN FRAME`. Paired modes generate only the design half; design-only and wallpapers show no source photograph. Recompose each wallpaper for its device, never crop another output, and render no system UI or mockup. A linked pack references the original photo plus the same approved anchor and never chains derivatives.
 
 Hard gate: one traditional window form chosen from source structure; subject or projection appears within, passes through, occludes, or spills beyond it; at least three source cues and the principal action remain legible; one main light area, one quiet negative-space area, and a few soft projections form a visual triangle; an extremely pale low-saturation source-derived ground and living source-derived light colour; fine spray grain, pastel dust, atmospheric soft focus, and diffused edges; lattice slightly clearer but never hard; one very short title and sparse microtype enter the edge, arc, axis, or light void; no heavy dark ground, dirty grey, fluorescent colour, hard contrast, cartoon, cheap filter, complex ornament, realistic impasto, 3D, template centring, or pseudo-text.
 
