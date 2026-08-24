@@ -22,6 +22,23 @@ XXD Panel 023 is an image-generation Skill for Codex and compatible agents. Acco
 
 The ground is an extremely pale, low-saturation composite extracted from the source; its most vital colour becomes soft living light. One principal light zone, one quiet void, and a few diffused projections form a visual triangle. Fine spray grain, pastel dust, air-soft focus, and tiny editorial type make the image feel like lattice sunlight on a pale wall, gently blurred by air and memory.
 
+## Samples · From X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090381352025854206) · 2026-08-20<br>
+> GPT2 x 中式美学 x 窗景 x 朦胧 x 美学提示词<br>
+> The original post has no VOL label; the author confirmed in this conversation that these samples belong to XXD Panel 023.
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 023 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 023 sample 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 023 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
 ## Why it exists
 
 An “Eastern window scene” easily collapses into the same centred moon gate, fixed dark-blue ground, hard Chinese border, or cheap nostalgic filter, with the subject merely inserted into an unrelated template.
@@ -43,23 +60,6 @@ If an unrelated photograph could replace the source without materially changing 
 - **Living light colour:** distil and gently lift the source's most vital colour for restrained warm-cool response, never a global filter.
 - **Atmospheric material:** fine spray grain, pastel dust, powder, soft focus, and diffuse edges; lattice is slightly clearer but never hard.
 - **Quiet microtype:** one extremely short title with sparse place/state words or micro-phrases follows the window edge, arc, axis, or light void.
-
-## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090381352025854206) · 2026-08-20<br>
-> GPT2 x 中式美学 x 窗景 x 朦胧 x 美学提示词<br>
-> The original post has no VOL label; the author confirmed in this conversation that these samples belong to XXD Panel 023.
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 023 sample 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 023 sample 2"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206">View the original post and full prompt →</a></p>
-
-These samples demonstrate the 023 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## The original brief is authoritative
 

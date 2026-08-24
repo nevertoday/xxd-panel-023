@@ -22,6 +22,23 @@ XXD Panel 023 は、Codex と互換 Agent のための画像生成 Skill です�
 
 背景は元写真から取った極めて淡い低彩度色、最も生命感のある色は柔らかな光になります。一つの主光域、一つの静かな余白、少数のぼけた投影が三角形を作り、細かなスプレー粒子、パステル粉、空気の柔焦点、小さな編集文字が、窓格子の光を記憶の中へ溶かします。
 
+## 作例 · X より
+
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090381352025854206) · 2026-08-20<br>
+> GPT2 x 中式美学 x 窗景 x 朦胧 x 美学提示词<br>
+> 元の投稿には VOL 表記がありませんが、作者が本対話で XXD Panel 023 の作例であると確認しました。
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 023 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 023 作例 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 023 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
 ## なぜ 023 が必要なのか
 
 一般的な「東洋の窓景」は、いつも同じ中央の月洞、濃紺背景、硬い中華枠、安価な懐古フィルターへ崩れがちです。
@@ -42,23 +59,6 @@ XXD Panel 023 は、Codex と互換 Agent のための画像生成 Skill です�
 - **淡い元写真色：** 元写真に根拠のある低彩度背景と、そこから抽出した生命の光色を使います。
 - **空気の素材：** スプレー粒子、パステル粉、粉塵、柔焦点、拡散境界。格子は少し明瞭でも硬くしません。
 - **静かな小文字：** 極短い題と少数の微小語を、窓縁、弧、軸、光の余白へ置きます。
-
-## 作例 · X より
-
-> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090381352025854206) · 2026-08-20<br>
-> GPT2 x 中式美学 x 窗景 x 朦胧 x 美学提示词<br>
-> 元の投稿には VOL 表記がありませんが、作者が本対話で XXD Panel 023 の作例であると確認しました。
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 023 作例 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 023 作例 2"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206">元の投稿と完全なプロンプトを見る →</a></p>
-
-これらの作例は 023 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 原文プロンプトを唯一の美的基準にする
 

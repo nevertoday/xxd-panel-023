@@ -22,6 +22,23 @@ XXD Panel 023 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 背景从源图提取极浅、低饱和、干净的综合色，生命力最强的颜色则被提炼成柔和有色光影。一个主要光区、一个安静留白和少量虚化投影形成视觉三角；细腻喷绘颗粒、色粉、空气柔焦与微小编辑文字，让画面像窗棂阳光落在浅墙上，又被空气和记忆轻轻模糊。
 
+## 样张 · 来自 X
+
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090381352025854206) · 2026-08-20<br>
+> GPT2 x 中式美学 x 窗景 x 朦胧 x 美学提示词<br>
+> 原推文未标注 VOL；作者在本次对话确认该样张归属 XXD Panel 023。
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 023 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 023 样张 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 023 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
+
 ## 为什么需要 023
 
 普通“东方窗景”很容易退化成固定月洞门、深蓝背景、硬质中式边框或廉价古风滤镜，主体只是被塞进一个和照片无关的模板。
@@ -43,23 +60,6 @@ XXD Panel 023 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **生命光色：** 从源图最有生命力的颜色提炼并适度提亮、提纯，形成柔和冷暖呼应，而不是全局滤镜。
 - **空气质感：** 细腻喷绘颗粒、色粉、粉尘、柔焦与漫射边缘；窗格略清晰但绝不硬质描边。
 - **安静微排版：** 一个极短标题与少量地点词、状态词或微短句，沿窗沿、弧线、轴线或光影留白进入构图。
-
-## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090381352025854206) · 2026-08-20<br>
-> GPT2 x 中式美学 x 窗景 x 朦胧 x 美学提示词<br>
-> 原推文未标注 VOL；作者在本次对话确认该样张归属 XXD Panel 023。
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 023 样张 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 023 样张 2"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206">查看原推文与完整提示词 →</a></p>
-
-这些样张用于展示 023 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 原始提示词优先，而不是二次导演
 

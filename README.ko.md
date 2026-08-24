@@ -22,6 +22,23 @@ XXD Panel 023는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 
 배경은 원본에서 얻은 매우 옅고 저채도인 깨끗한 색이며 가장 생명력 있는 색은 부드러운 유색광이 됩니다. 주요 빛 영역 하나, 고요한 여백 하나와 소수의 흐린 투영이 시각 삼각형을 만들고, 섬세한 분사 입자, 파스텔 가루, 공기 초점과 작은 편집 문자가 창살의 빛을 기억 속으로 녹입니다.
 
+## 예시 · X에서
+
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090381352025854206) · 2026-08-20<br>
+> GPT2 x 中式美学 x 窗景 x 朦胧 x 美学提示词<br>
+> 원문 게시물에는 VOL 표기가 없지만, 작성자가 이번 대화에서 XXD Panel 023 예시임을 확인했습니다.
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 023 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 023 예시 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 023의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
+
 ## 왜 023이 필요한가요
 
 일반적인 ‘동양 창경’은 늘 같은 중앙 월동문, 짙은 남색 배경, 딱딱한 중국풍 테두리나 값싼 복고 필터로 쉽게 무너집니다.
@@ -42,23 +59,6 @@ XXD Panel 023는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 - **옅은 원본 색:** 원본에 근거한 저채도 배경과 가장 생명력 있는 유색광을 사용합니다.
 - **공기의 재질:** 분사 입자, 파스텔 가루, 먼지, 부드러운 초점과 확산 가장자리. 격자는 조금 선명해도 딱딱하지 않습니다.
 - **고요한 미세 조판:** 극히 짧은 제목과 소수의 미세 단어를 창 가장자리, 곡선, 축 또는 빛 여백에 둡니다.
-
-## 예시 · X에서
-
-> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090381352025854206) · 2026-08-20<br>
-> GPT2 x 中式美学 x 窗景 x 朦胧 x 美学提示词<br>
-> 원문 게시물에는 VOL 표기가 없지만, 작성자가 이번 대화에서 XXD Panel 023 예시임을 확인했습니다.
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 023 예시 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 023 예시 2"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206">원문 게시물과 전체 프롬프트 보기 →</a></p>
-
-이 예시는 023의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
 
 ## 원본 프롬프트가 유일한 미적 기준입니다
 
