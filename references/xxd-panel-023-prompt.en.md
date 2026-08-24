@@ -1,50 +1,79 @@
-# XXD Panel 023 | Eastern Window, Diffused Light, and Framed Atmosphere
+# XXD Panel 023 | Runtime Adapter (English)
 
-## Runtime complete-canvas contract — highest priority
+This is not a second aesthetic prompt. Read and use `references/023-source.md` in full and verbatim before generation; it is the sole creative and aesthetic authority for Panel 023. This file only appends the current user's runtime variables.
 
-- `TOP_BOTTOM` and `LEFT_RIGHT` default to one complete finished generation using the current source as a high-fidelity edit/reference input. Do not pre-split the job into photographic and design halves.
-- Top-bottom keeps the faithful source in approximately the upper 50% and performs this style transformation below; left-right uses the faithful source in approximately the left 50% and the transformation on the right. Unify both regions through colour, light, rhythm, typography, and meaning.
-- `DESIGN_ONLY` and `WALLPAPER_PACK` use the complete canvas while the source remains an invisible identity/content reference. Recompose every wallpaper separately for its device.
-- `FINAL CANVAS` means the ratio/pixels of the whole finished artwork and must be explicitly resolved before generation; never apply source dimensions silently. `DESIGN FRAME` is used only if a failed complete-canvas retry triggers deterministic composition fallback.
-- Retry a failed complete canvas once against the failed constraint only. Scripted composition is allowed only after that retry still fails, when pixel-identical source preservation is explicitly required, when the active route cannot realise the canvas, or for lossless pixel calibration.
+## Non-authoring boundary
 
-### Model priority and credentials
+- Do not summarize, translate, expand, polish, or “improve” the source brief.
+- Do not add a palette plan, material plan, composition theory, whitespace rule, title, microcopy package, or aesthetic motive.
+- Preserve the source brief's own colour behaviour exactly, whether it derives colour from the photograph or specifies a fixed family.
+- Let the image model execute the source brief's existing text logic. The outer Skill does not pre-write copy.
+- Current modes and sizes override only the legacy 3:4 top-bottom container, never the remaining aesthetic rules.
 
-- **Prefer GPT Image 2.** When GPT Image 2 is available through the current built-in image tool or a configured compatible route, use it first for the high-fidelity reference/edit and complete-canvas generation required by this prompt.
-- Also support Seedance 5.0 Pro, Nano Banana Pro (Gemini Image Pro), Nano Banana 2 (Gemini Image Flash), or another compatible bitmap model only when the actual route can preserve the source, realise the whole finished canvas, render the target-language text, and accept the multiple references needed by a linked wallpaper pack.
-- An alternative model changes only the generation route. It must not change this prompt's modes, canvas, source visibility, copy, locale, wallpaper relationship, or complete-canvas-first / composition-fallback-only logic. Do not silently downgrade a hard requirement.
-- If no suitable route is available, ask the user to enable an image-generation tool or provide an API key. User-provided credentials may be used for the current task, but never echo, display, log, or expose their value in chat, prompts, or diagnostics. Do not persist them or modify global route configuration unless explicitly requested.
-- Judge availability by actual image capability, not by a provider name or one missing environment variable.
+## Append-only runtime template
 
-Process only the one source photograph explicitly supplied for the current task. Lock one principal subject or inseparable relation, its main action, and at least three source-specific cues. Never borrow a subject, window form, light colour, copy, or composition from samples, old outputs, or another input.
+```text
+RUNTIME OVERRIDE — CURRENT DELIVERY ONLY
 
-## Let the source choose the window
+The original brief's initial 3:4 top-bottom arrangement is its legacy presentation container.
+For this output, override only: final canvas, source/design-region placement,
+source visibility, and device dimensions.
+Except for those container variables, every design-transformation, composition,
+colour, material, whitespace, text-character and typography instruction in the
+original brief remains authoritative.
 
-Choose exactly one framing structure—round window, patterned window, perforated window, moon gate, fan window, hexagonal window, or simplified geometric lattice—according to source contour, action direction, opening, centre of gravity, and spatial relation. Never impose the same moon gate on every subject or stack several traditional motifs.
+Interpret “upper photo” as SOURCE REFERENCE.
+Interpret “lower half” as DESIGN REGION.
 
-The subject, branch shadow, light patch, or abstract projection must appear within, pass through, occlude, or gently spill beyond the window so the frame creates order, depth, and a transition between solid and diffuse space. The window may be offset, locally cropped, or suspended rather than centred. Establish a stable visual triangle from one principal light area, one quiet area of negative space, and a few soft projections.
+OUTPUT MODE: TOP_BOTTOM | LEFT_RIGHT | DESIGN_ONLY | WALLPAPER_PACK
+FINAL CANVAS: <ratio and/or exact WIDTHxHEIGHT>
+DEVICE PROFILE: NONE | PHONE | IPAD | DESKTOP | WATCH
+SOURCE VISIBILITY: UPPER HALF | LEFT HALF | REFERENCE ONLY — NOT VISIBLE
+DESIGN REGION: LOWER HALF | RIGHT HALF | FULL CANVAS
+PAIRED RELATION: FOLLOW THE ORIGINAL BRIEF'S PAIRED-PROPORTION RULE | NOT APPLICABLE
+WALLPAPER RELATIONSHIP: NONE | INDEPENDENT | LINKED
 
-## Source-derived pale ground and living light
+Colour follows the original brief's existing colour instructions exactly.
+Unless the user explicitly requests a colour change, do not add, replace,
+summarize, or re-plan any palette.
+```
 
-Extract one extremely pale, low-saturation, clean composite ground from the source: mist blue, pale cyan, soft apricot, powder pink, grey green, warm ivory, or very pale violet-grey when supported. Keep it light, luminous, and airy with a gentle but legible value separation from the subject. Reject a fixed dark-blue background, dirty grey, heavy darkness, fluorescent colour, and hard contrast.
+Append exactly one text block after the runtime block. If the user has other explicit requirements, append those verbatim after the text block at the very end.
 
-Distil soft coloured light from the source's most vital colour, modestly lifting and purifying it for a restrained warm-cool response. Coloured light serves subject, window shadow, mood, and space; it never becomes a cheap filter or arbitrary rainbow gradient.
+### Text generated from the original prompt
 
-## Airbrushed grain and diffuse projection
+```text
+TEXT MODE: ORIGINAL_PROMPT_GENERATED
+TEXT LANGUAGE: <user-confirmed language or locale>
 
-Use fine spray grain, pastel dust, atmospheric soft focus, powder, and diffused light. Light and shadow edges blur naturally with slight colour bloom. Lattice structure may be a little clearer than the projection but remains soft, never a hard architectural outline. The image should feel like sunlight passing through a traditional window onto a pale wall, softened by air and memory.
+The image model generates wording by following the original brief's existing
+text-generation logic. The outer Skill supplies no title, microcopy, copy
+package, or additional semantic framework.
+```
 
-Keep the source clearly recognisable while rejecting cartoon contour, realistic impasto, 3D volume, hard vector edges, complex decoration, excessive symmetry, even filling, and template centring.
+### User-exact text
 
-## Typography belonging to 023
+```text
+TEXT MODE: USER_EXACT
+TEXT LANGUAGE: <user-confirmed language or locale>
+TEXT: “<user's exact characters>”
 
-Automatic copy derives one extremely short title from visible or supported mood, time, action, temperature, or metaphor, with only a few place words, state words, or micro-phrases when useful. Places, dates, provenance, and factual numbers require user input or reliable evidence and are never invented for sophistication.
+Use the supplied text verbatim. Do not rewrite, translate, spell-correct, or add
+any other wording. Typography and placement still follow the original brief.
+```
 
-Place type along a window edge, arc, axis, or quiet light area through alignment, orbit, offset, or interweaving. Use native-script equivalents of very small type, light weight, and quiet editorial rhythm. Never force Latin tracking, rotation, or circular setting onto Chinese, Japanese, Korean, or Arabic. Exact user wording stays verbatim; text-free output contains no text or pseudo-text.
+### No text
 
-## Mode and hard gate
+```text
+TEXT MODE: NONE
+Render no letters, characters, numbers, titles, labels, logos, or pseudo-text anywhere.
+```
 
+See `SKILL.md` for preflight, multi-size, multi-mode, wallpaper, execution, and output rules. Every final generation request has this order:
 
-Hard gate: one traditional window form chosen from source structure; subject or projection appears within, passes through, occludes, or spills beyond it; at least three source cues and the principal action remain legible; one main light area, one quiet negative-space area, and a few soft projections form a visual triangle; an extremely pale low-saturation source-derived ground and living source-derived light colour; fine spray grain, pastel dust, atmospheric soft focus, and diffused edges; lattice slightly clearer but never hard; one very short title and sparse microtype enter the edge, arc, axis, or light void; no heavy dark ground, dirty grey, fluorescent colour, hard contrast, cartoon, cheap filter, complex ornament, realistic impasto, 3D, template centring, or pseudo-text.
-
-If any hard condition fails, correct the generated asset. Never fake the artwork with programmatic drawing, SVG, HTML, Canvas, or a post-composited type overlay.
+```text
+complete verbatim 023-source.md
++ current runtime override block
++ exactly one text-mode block
++ any other explicit user requirement, verbatim, at the very end
+```
