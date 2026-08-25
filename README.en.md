@@ -16,17 +16,7 @@
 
 </div>
 
-> SOURCE-CHOSEN WINDOW · PALE BREATHING GROUND · LIVING COLOURED LIGHT · SPRAY GRAIN · DIFFUSE PROJECTION
-
-XXD Panel 023 is an image-generation Skill for Codex and compatible agents. According to source contour, action direction, opening, centre of gravity, and space, it chooses one round, patterned, perforated, moon, fan, hexagonal, or simplified lattice window, then lets the subject, branch shadow, light patch, or abstract projection appear within, pass through, occlude, or gently spill beyond it.
-
-The ground is an extremely pale, low-saturation composite extracted from the source; its most vital colour becomes soft living light. One principal light zone, one quiet void, and a few diffused projections form a visual triangle. Fine spray grain, pastel dust, air-soft focus, and tiny editorial type make the image feel like lattice sunlight on a pale wall, gently blurred by air and memory.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090381352025854206) · 2026-08-20<br>
-> GPT2 x 中式美学 x 窗景 x 朦胧 x 美学提示词<br>
-> The original post has no VOL label; the author confirmed in this conversation that these samples belong to XXD Panel 023.
 
 <table>
   <tr>
@@ -35,9 +25,19 @@ The ground is an extremely pale, low-saturation composite extracted from the sou
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090381352025854206) · 2026-08-20<br>
+> GPT2 x 中式美学 x 窗景 x 朦胧 x 美学提示词<br>
+> The original post has no VOL label; the author confirmed in this conversation that these samples belong to XXD Panel 023.
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090381352025854206">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 023 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+> SOURCE-CHOSEN WINDOW · PALE BREATHING GROUND · LIVING COLOURED LIGHT · SPRAY GRAIN · DIFFUSE PROJECTION
+
+XXD Panel 023 is an image-generation Skill for Codex and compatible agents. According to source contour, action direction, opening, centre of gravity, and space, it chooses one round, patterned, perforated, moon, fan, hexagonal, or simplified lattice window, then lets the subject, branch shadow, light patch, or abstract projection appear within, pass through, occlude, or gently spill beyond it.
+
+The ground is an extremely pale, low-saturation composite extracted from the source; its most vital colour becomes soft living light. One principal light zone, one quiet void, and a few diffused projections form a visual triangle. Fine spray grain, pastel dust, air-soft focus, and tiny editorial type make the image feel like lattice sunlight on a pale wall, gently blurred by air and memory.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 023 right for you?
