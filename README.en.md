@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 023
+# 🦁 XXD Panel 023｜Eastern Window View
 
 ### Frame the photograph in one source-responsive Eastern window and diffused living light
 

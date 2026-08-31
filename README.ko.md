@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 023
+# 🦁 XXD Panel 023｜동양의 창밖 풍경
 
 ### 사진이 고른 동양 창과 부드러운 빛으로 고요한 장면 만들기
 

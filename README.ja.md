@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 023
+# 🦁 XXD Panel 023｜東洋の窓景
 
 ### 写真自身が選ぶ東洋の窓と柔らかな光で、静かな框景へ
 

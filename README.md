@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 023
+# 🦁 XXD Panel 023｜东方窗景
 
 ### 把照片放进一扇由它自己决定的东方柔光窗景
 
