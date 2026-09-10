@@ -83,6 +83,15 @@ You do not need to review every option first. Send your Agent an image and say:
 The samples above can help you confirm the visual direction. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference.
 <!-- xxd-human-intro:end -->
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · Five languages
 
 [Open the unified translation directory](references/original-prompt/): [Simplified Chinese original](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -99,28 +108,6 @@ The Simplified Chinese file preserves Xiaoxiaodong's wording verbatim and remain
 | **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
 | **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
 <!-- xxd-panel-benefit:end -->
-
-## How it turns your source into a distinctive result
-
-An “Eastern window scene” easily collapses into the same centred moon gate, fixed dark-blue ground, hard Chinese border, or cheap nostalgic filter, with the subject merely inserted into an unrelated template.
-
-023 reverses that logic:
-
-```text
-lock source contour / action / opening / direction / light / colour / relation → choose one fitting traditional window → let subject or projection appear / pass through / occlude / spill → establish one principal light + one quiet void + a few soft projections → extract an extremely pale ground and living light colour → soften with spray grain, pastel dust, and diffuse edges → place an extremely short title and microtype along the edge, arc, axis, or light void
-```
-
-If an unrelated photograph could replace the source without materially changing window choice, subject-window relation, principal light, quiet void, projections, ground hue, living light colour, or type path, the result is not 023.
-
-## What makes the finished style recognizable
-
-- **Source chooses the window:** at least three source-specific cues determine one window form; never default to one moon gate or stack several traditions.
-- **Window and subject interact:** subject, branch shadow, light patch, or projection appears within, passes through, occludes, or spills so the frame creates order and depth.
-- **One visual triangle:** one principal light, one quiet void, and a few soft projections create a stable centre; the window may be offset, cropped, or suspended.
-- **Extremely pale source ground:** use a source-supported mist blue, pale cyan, soft apricot, powder pink, grey green, warm ivory, or pale violet-grey—never fixed dark blue or dirty grey.
-- **Living light colour:** distil and gently lift the source's most vital colour for restrained warm-cool response, never a global filter.
-- **Atmospheric material:** fine spray grain, pastel dust, powder, soft focus, and diffuse edges; lattice is slightly clearer but never hard.
-- **Quiet microtype:** one extremely short title with sparse place/state words or micro-phrases follows the window edge, arc, axis, or light void.
 
 <details>
 <summary><strong>Full capabilities and parameters (open when needed)</strong></summary>
