@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 023｜Eastern Window View: frames the subject of a photo in one traditional Chinese window chosen to suit it — round, moon-gate, fan, hexagonal or lattice — with the subject, branch shadows or light spots appearing through or spilling past the frame, set slightly off-centre with one main pool of light, on a very pale, low-saturation background taken from the photo (misty blue, apricot, grey-green or warm beige), with coloured light from the photo's liveliest hues, fine airbrush grain and diffused blur, like sunlight through a lattice onto a pale wall, plus a very short title and a few small words along the window's edge. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-023 or asks for Chinese window-frame illustration, soft airbrush light-and-shadow art or Eastern poetic framed views from a photo.",
+  "short_description": "东方窗景：把照片放进一扇按主体挑选的中式窗，浅色墙上落着柔和的有色光影",
+  "zh-CN": {
+    "name": "东方窗景",
+    "tagline": "把照片放进一扇按主体挑选的中式窗里，像阳光透过窗棂落在一面浅色墙上。",
+    "look": "画面以一种中国传统窗形为框：圆窗、月洞、扇形窗、六角窗、花窗或几何棂格，按主体的形状挑最合适的一种。主体、枝影、光斑或抽象投影在窗里显现、穿过、遮挡或溢出窗外，窗形可以偏置或局部裁切，配一处主要光区和一片安静留白。背景是从照片里提取的极浅低饱和色，比如雾蓝、浅青、淡杏、柔粉、灰绿、暖米白或浅紫灰；光影取照片里最有生命力的颜色并稍稍提亮。质感是细腻的喷绘颗粒、色粉和空气感柔焦，窗格略清晰但仍柔和。文字是一个极短标题加少量地点词或短句，沿窗框边缘、弧线或光影留白排布。",
+    "traits": [
+      "源图择窗",
+      "浅色背景",
+      "有色光影",
+      "喷绘颗粒",
+      "东方留白"
+    ],
+    "good": [
+      "枝叶和花：竹子、梅枝、一盆兰花、窗外的树影",
+      "安静的单一主体：窗台上的猫、侧脸的人、一盏茶、一只花瓶",
+      "园林、庭院和老房子的一角"
+    ],
+    "poor": [
+      "暗沉厚重、需要保留深色氛围的照片，这里背景总是很浅",
+      "想要清晰硬朗的建筑线稿或写实描绘的需求",
+      "画面杂乱、装饰很多，或想要荧光色和强对比的效果"
+    ]
+  },
+  "en": {
+    "name": "Eastern Window View",
+    "tagline": "Frames your photo in a Chinese window chosen to suit it, like sunlight falling through a lattice onto a pale wall.",
+    "look": "The picture is framed by one traditional Chinese window shape, chosen to fit the subject: a round window, moon gate, fan, hexagon, ornamental opening or geometric lattice. The subject, shadows of branches, spots of light or soft projections appear in it, pass through, overlap it or spill outside, with the window slightly off-centre or partly cropped, one main area of light and one quiet empty area. The background is a very pale, low-saturation colour taken from the photo, such as misty blue, pale teal, apricot, soft pink, grey-green, warm beige or pale violet-grey, and the coloured light comes from the photo's liveliest hues, gently brightened. The texture is fine airbrush grain, pastel and airy soft focus, with the lattice a little sharper but still soft. Text is a very short title with a few place words or a short phrase along the frame, its curve or the open light.",
+    "traits": [
+      "Window chosen per photo",
+      "Pale background",
+      "Coloured light and shadow",
+      "Airbrush grain",
+      "Eastern whitespace"
+    ],
+    "good": [
+      "Branches and flowers: bamboo, a plum branch, a potted orchid, tree shadows outside a window",
+      "A quiet single subject: a cat on a sill, a face in profile, a cup of tea, a vase",
+      "Corners of gardens, courtyards and old houses"
+    ],
+    "poor": [
+      "Dark, heavy photos whose deep mood must be kept, since the background here is always pale",
+      "Requests for crisp architectural line drawing or realistic rendering",
+      "Cluttered, ornate scenes, or requests for neon colour and hard contrast"
+    ]
+  },
+  "ja": {
+    "name": "東洋の窓景",
+    "tagline": "写真を、主役に合わせて選んだ中国式の窓に収め、格子越しの日差しが淡い壁に落ちたような一枚にします。",
+    "look": "画面は中国の伝統的な窓の形を一つ枠にします。丸窓、月洞門、扇形の窓、六角窓、透かし窓、幾何学の格子から、主役の形にいちばん合うものを選びます。主役、枝の影、光の斑点、抽象的な投影が窓の中に現れ、通り抜け、重なり、外へあふれ出します。窓は少し片寄せたり一部を切ったりし、主な光の場所を一つと静かな余白を一つつくります。背景は写真から取ったごく淡い低彩度の色で、霧のブルー、淡い青緑、淡いあんず色、やわらかなピンク、グレーグリーン、温かいベージュ、淡い紫灰などです。光と影には写真でいちばん生き生きした色を少し明るくして使います。質感は細かなエアブラシの粒子、パステル、空気を含んだソフトフォーカスで、格子はやや鮮明でもやわらかさを保ちます。文字はごく短いタイトルと少しの地名や短い言葉で、窓枠の縁や弧、光の余白に沿わせます。",
+    "traits": [
+      "写真に合わせた窓",
+      "淡い背景",
+      "色のある光と影",
+      "エアブラシの粒子",
+      "東洋の余白"
+    ],
+    "good": [
+      "枝葉や花：竹、梅の枝、蘭の鉢、窓の外の木の影",
+      "静かな一つの主役：窓辺の猫、横顔の人、一杯のお茶、花瓶",
+      "庭園、中庭、古い家の一角"
+    ],
+    "poor": [
+      "暗く重く、深い色の雰囲気を残したい写真（ここでは背景がいつも淡くなります）",
+      "くっきりした建築の線画や写実的な描写を求める場合",
+      "雑然として装飾の多い場面、蛍光色や強いコントラストを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "동양의 창밖 풍경",
+    "tagline": "사진을 주인공에 맞춰 고른 중국식 창 안에 담아, 창살 사이로 든 햇빛이 연한 벽에 떨어진 듯한 장면으로 만듭니다.",
+    "look": "화면은 중국 전통 창 모양 하나를 틀로 씁니다. 둥근 창, 월동문, 부채꼴 창, 육각 창, 꽃살창, 기하학 창살 중 주인공의 형태에 가장 맞는 것을 고릅니다. 주인공, 가지 그림자, 빛 조각, 추상적인 투영이 창 안에 나타나고, 지나가고, 겹치고, 창 밖으로 넘쳐 나옵니다. 창은 조금 치우치거나 일부가 잘리며, 주된 빛 영역 하나와 조용한 여백 하나를 둡니다. 배경은 사진에서 뽑은 아주 연하고 채도 낮은 색으로 안개 파랑, 연한 청록, 연한 살구색, 부드러운 분홍, 회녹색, 따뜻한 베이지, 연한 보랏빛 회색 같은 색입니다. 빛과 그림자에는 사진에서 가장 생기 있는 색을 살짝 밝혀 씁니다. 질감은 고운 에어브러시 입자, 파스텔, 공기감 있는 소프트 포커스이며, 창살은 조금 더 또렷해도 부드러움을 유지합니다. 글자는 아주 짧은 제목과 약간의 장소어나 짧은 문장으로, 창틀 가장자리, 호, 빛의 여백을 따라 놓입니다.",
+    "traits": [
+      "사진에 맞춘 창",
+      "연한 배경",
+      "색이 있는 빛과 그림자",
+      "에어브러시 입자",
+      "동양적 여백"
+    ],
+    "good": [
+      "가지와 꽃: 대나무, 매화 가지, 난초 화분, 창밖 나무 그림자",
+      "조용한 단일 주인공: 창턱의 고양이, 옆모습의 사람, 차 한 잔, 꽃병",
+      "정원, 안뜰, 오래된 집의 한 귀퉁이"
+    ],
+    "poor": [
+      "어둡고 무거워 짙은 분위기를 살려야 하는 사진(여기서는 배경이 늘 연합니다)",
+      "또렷하고 단단한 건축 선화나 사실적인 묘사를 원하는 경우",
+      "어수선하고 장식이 많은 장면, 형광색이나 강한 대비를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "مشهد النافذة الشرقية",
+    "tagline": "يضع صورتك في نافذة صينية تُختار لتناسبها، كأن ضوء الشمس يسقط عبر المشربية على جدار فاتح.",
+    "look": "تُؤطَّر الصورة بشكل واحد من النوافذ الصينية التقليدية يُختار ليلائم العنصر: نافذة مستديرة أو بوابة القمر أو نافذة مروحية أو سداسية أو فتحة مزخرفة أو شبكة هندسية. يظهر فيها العنصر أو ظلال الأغصان أو بقع الضوء أو إسقاطات ناعمة، فتعبرها أو تتداخل معها أو تفيض خارجها، والنافذة منزاحة قليلاً أو مقصوصة جزئياً، مع منطقة ضوء رئيسية واحدة ومساحة فارغة هادئة. الخلفية لون فاتح جداً قليل التشبع مأخوذ من الصورة، كالأزرق الضبابي أو الفيروزي الباهت أو المشمشي أو الوردي الناعم أو الرمادي المخضر أو البيج الدافئ أو الرمادي البنفسجي الفاتح، ويأتي الضوء الملوّن من أكثر ألوان الصورة حيوية بعد تفتيحه قليلاً. الملمس حبيبات بخّاخ دقيقة وباستيل وتركيز ناعم مشبع بالهواء، والشبكة أوضح قليلاً لكنها تبقى ناعمة. النص عنوان قصير جداً مع كلمات مكان قليلة أو عبارة قصيرة على حافة الإطار أو قوسه أو في الضوء المفتوح.",
+    "traits": [
+      "نافذة تُختار لكل صورة",
+      "خلفية فاتحة",
+      "ضوء وظل ملوّنان",
+      "حبيبات البخّاخ",
+      "فراغ شرقي"
+    ],
+    "good": [
+      "أغصان وزهور: خيزران، غصن برقوق، أصيص أوركيد، ظلال شجر خلف نافذة",
+      "عنصر واحد هادئ: قطة على حافة نافذة، وجه جانبي، فنجان شاي، مزهرية",
+      "زوايا من الحدائق والأفنية والبيوت القديمة"
+    ],
+    "poor": [
+      "صور داكنة ثقيلة يجب الإبقاء على جوّها العميق، فالخلفية هنا فاتحة دائماً",
+      "طلب رسم معماري خطي حاد أو تصوير واقعي",
+      "مشاهد مزدحمة كثيرة الزخارف، أو طلب ألوان فسفورية وتباين حاد"
+    ]
+  }
+}
